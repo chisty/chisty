@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am Ahmed Chisty. 
-Currently working at [Care.com](https://www.care.com/)
+
 
 <!--
 **chisty/chisty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
